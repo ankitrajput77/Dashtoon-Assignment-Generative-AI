@@ -11,6 +11,7 @@ This Repository contains:-
 2. content image
 3. style image
 4. readme.md file
+5. requirements
 
 ## Requirements
 
@@ -21,6 +22,10 @@ numpy
 torch
 torchvision
 ```
+## Architecture
+
+<img width="543" alt="image" src="https://github.com/ankitrajput77/Dashtoon-Assignment-Generative-AI/assets/113281225/9bbb3b5b-a0ed-4095-978c-0e44e2aaa975">
+
 
 ## How to use 
 
