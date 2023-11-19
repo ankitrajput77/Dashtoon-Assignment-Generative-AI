@@ -11,3 +11,7 @@ This Repository contains:-
 2. content image
 3. style image
 4. readme.md file
+
+## Results
+
+<img width="620" alt="image" src="https://github.com/ankitrajput77/Dashtoon-Assignment-Generative-AI/assets/113281225/d3f9709d-153a-4a85-9cd1-f62598386f0e">
