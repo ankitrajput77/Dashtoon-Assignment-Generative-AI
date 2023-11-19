@@ -15,11 +15,11 @@ This Repository contains:-
 ## Requirements
 
 ```bash
-Pillow==8.4.0
-matplotlib==3.4.3
-numpy==1.21.2
-torch==1.10.0
-torchvision==0.11.1
+Pillow
+matplotlib
+numpy
+torch
+torchvision
 ```
 
 ## Results
